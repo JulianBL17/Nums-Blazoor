@@ -1,0 +1,75 @@
+﻿@page "/romanos"
+@inject NavigationManager NavigationManager
+
+<PageTitle>Listado de Numeros Romanos</PageTitle>
+
+@using Datos
+@using Logica;
+@using System.Collections.Generic;
+@using System;
+
+<h1>Num. Romanos</h1>
+
+<p>Recuperamos los numeros desde una bd usando un proyecto base de n-capas.</p>
+
+@if(nums == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Num. Arabigo</th>
+                <th>Num. Romano</th>
+                <th>Explicacion</th>
+                <th>Eliminar Dato</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var num in values)
+            {
+                <tr>
+                    <td>@num.Num</td>
+                    <td>@num.Romano</td>
+                    <td>@num.ToString()</td>
+            
+                    <td>
+                      <button class="btn btn-outline-primary" @onclick="()=>elimina(num.Num)">Eliminar</button>  
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<button class="btn btn-success" @onclick="NuevoNum">Nuevo registro</button>
+
+
+@code {
+    NumerosConn nums = new NumerosConn();
+    List<Numero> values = new List<Numero>();
+
+     public int val;   
+    
+    //protected override async Task OnInitializedAsync()
+    protected override void OnInitialized()
+    {
+        values = nums.Cargar();
+        Console.WriteLine($"Registros recuperados: {values.Count}");
+    }
+
+    void NuevoNum()
+    {
+        NavigationManager.NavigateTo("nuevonum");
+    }
+
+    void elimina(int val){
+
+        nums.Eliminar(val);
+        NavigationManager.NavigateTo("romanos");
+        values = nums.Cargar();
+    }
+
+}

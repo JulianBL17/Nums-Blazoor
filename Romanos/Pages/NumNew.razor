@@ -1,0 +1,55 @@
+﻿@page "/nuevonum"
+@inject NavigationManager NavigationManager
+@using Logica;
+@using Romanos;
+@using Datos;
+
+
+<PageTitle> Nuevo registro </PageTitle>
+
+<h1>Nueva correspondencia Arabigos - romanos</h1>
+ 
+ <input type="number" name="abrigo" @bind="abri" placeholder="Dijite un número Abrigo" >
+ <input type="text" name="roman" @bind="roma"  id="roman"   placeholder="Dijite un número Romano" >
+ <button class="btn btn-primary" @onclick="dirigiraromano">Registrar</button>
+ <br>
+ <input type="number" @bind="valor" aria-placeholder="Dijite valor a eliminar">
+ <button class="btn btn-primary" @onclick="eliminar">Eliminar</button>
+
+  
+ 
+
+
+
+@code {
+
+     public int abri;
+     public string roma;
+
+     public int valor;
+   
+    NumerosConn num=new NumerosConn();
+ 
+    
+ 
+ void dirigiraromano()
+    {
+        num.Insertar(abri,roma);
+        NavigationManager.NavigateTo("romanos");
+        
+    }
+
+    void eliminar()
+    {
+        num.Eliminar(valor);
+        NavigationManager.NavigateTo("romanos");
+        
+    }
+       
+       
+    }
+    
+
+
+
+

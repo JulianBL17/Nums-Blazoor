@@ -1,0 +1,30 @@
+C:\Proyectos\Numbers\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Proyectos\Numbers\Logica\bin\Debug\net5.0\Logica.dll
+C:\Proyectos\Numbers\Logica\bin\Debug\net5.0\ref\Logica.dll
+C:\Proyectos\Numbers\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Proyectos\Numbers\Logica\bin\Debug\net5.0\Datos.dll
+C:\Proyectos\Numbers\Logica\bin\Debug\net5.0\Datos.pdb
+C:\Proyectos\Numbers\Logica\obj\Debug\net5.0\Logica.csprojAssemblyReference.cache
+C:\Proyectos\Numbers\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Numbers\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Proyectos\Numbers\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Proyectos\Numbers\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Proyectos\Numbers\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
+C:\Proyectos\Numbers\Logica\obj\Debug\net5.0\Logica.dll
+C:\Proyectos\Numbers\Logica\obj\Debug\net5.0\ref\Logica.dll
+C:\Proyectos\Numbers\Logica\obj\Debug\net5.0\Logica.pdb
+C:\C# 6to semestre\Numbers\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\C# 6to semestre\Numbers\Logica\bin\Debug\net5.0\Logica.dll
+C:\C# 6to semestre\Numbers\Logica\bin\Debug\net5.0\Logica.pdb
+C:\C# 6to semestre\Numbers\Logica\bin\Debug\net5.0\Datos.dll
+C:\C# 6to semestre\Numbers\Logica\bin\Debug\net5.0\Datos.pdb
+C:\C# 6to semestre\Numbers\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\C# 6to semestre\Numbers\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# 6to semestre\Numbers\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\C# 6to semestre\Numbers\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\C# 6to semestre\Numbers\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\C# 6to semestre\Numbers\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
+C:\C# 6to semestre\Numbers\Logica\obj\Debug\net5.0\Logica.dll
+C:\C# 6to semestre\Numbers\Logica\obj\Debug\net5.0\refint\Logica.dll
+C:\C# 6to semestre\Numbers\Logica\obj\Debug\net5.0\Logica.pdb
+C:\C# 6to semestre\Numbers\Logica\obj\Debug\net5.0\ref\Logica.dll

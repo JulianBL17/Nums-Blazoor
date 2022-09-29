@@ -1,0 +1,24 @@
+C:\Proyectos\Numbers\Datos\bin\Debug\net5.0\Datos.deps.json
+C:\Proyectos\Numbers\Datos\bin\Debug\net5.0\Datos.dll
+C:\Proyectos\Numbers\Datos\bin\Debug\net5.0\ref\Datos.dll
+C:\Proyectos\Numbers\Datos\bin\Debug\net5.0\Datos.pdb
+C:\Proyectos\Numbers\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Numbers\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+C:\Proyectos\Numbers\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+C:\Proyectos\Numbers\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+C:\Proyectos\Numbers\Datos\obj\Debug\net5.0\Datos.dll
+C:\Proyectos\Numbers\Datos\obj\Debug\net5.0\ref\Datos.dll
+C:\Proyectos\Numbers\Datos\obj\Debug\net5.0\Datos.pdb
+C:\Proyectos\Numbers\Datos\obj\Debug\net5.0\Datos.csprojAssemblyReference.cache
+C:\C# 6to semestre\Numbers\Datos\bin\Debug\net5.0\Datos.deps.json
+C:\C# 6to semestre\Numbers\Datos\bin\Debug\net5.0\Datos.dll
+C:\C# 6to semestre\Numbers\Datos\bin\Debug\net5.0\Datos.pdb
+C:\C# 6to semestre\Numbers\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+C:\C# 6to semestre\Numbers\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# 6to semestre\Numbers\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+C:\C# 6to semestre\Numbers\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+C:\C# 6to semestre\Numbers\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+C:\C# 6to semestre\Numbers\Datos\obj\Debug\net5.0\Datos.dll
+C:\C# 6to semestre\Numbers\Datos\obj\Debug\net5.0\refint\Datos.dll
+C:\C# 6to semestre\Numbers\Datos\obj\Debug\net5.0\Datos.pdb
+C:\C# 6to semestre\Numbers\Datos\obj\Debug\net5.0\ref\Datos.dll
